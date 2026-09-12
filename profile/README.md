@@ -34,12 +34,12 @@ Every workshop we run gets its own repo with the slides and any code, so you can
 - [Spy Workshop](https://github.com/USF-IEEE-Computer-Society/Spy-Workshop). Morse code between two Particle Argon boards. October 9, 2025.
 - [NVIDIA GPUs and AI Hardware](https://github.com/USF-IEEE-Computer-Society/NVIDIA-GPUs-And-AI-Hardware). Tensor cores, ray tracing, and encoding chips. February 19, 2025.
 - [Building a Temperature Sensor](https://github.com/USF-IEEE-Computer-Society/Building-a-Temperature-Sensor). Particle Argon plus a DHT11, taught by Liam Osman at TechX Florida, November 23, 2024.
-- [How to Build a Computer](https://github.com/USF-IEEE-Computer-Society/How_To_Build_A_Computer). Includes a part-picking guide. October 2024.
-- [IoT Hardware Clock](https://github.com/USF-IEEE-Computer-Society/IoT_Hardware_Clock_Workshop). October 2024.
-- [Introduction to Electronics Repair](https://github.com/USF-IEEE-Computer-Society/introduction-to-electronics-repair). September 2024.
-- [IoT and Machine Learning](https://github.com/USF-IEEE-Computer-Society/IoT-worshop-ML). November 2023.
-- [IoT Hardware](https://github.com/USF-IEEE-Computer-Society/IoT_Hardware_Workshop). November 2023.
-- [Looking Inside Computer I/O](https://github.com/USF-IEEE-Computer-Society/looking_inside_computer_io). October 2023.
+- [How to Build a Computer](https://github.com/USF-IEEE-Computer-Society/How_To_Build_A_Computer). Two runs, with the DevFest part-picking deck. October 25, 2023 and October 5, 2024.
+- [IoT Hardware Clock](https://github.com/USF-IEEE-Computer-Society/IoT_Hardware_Clock_Workshop). Build a clock on a Particle Argon, keep the board. April 17 and October 4, 2024.
+- [Introduction to Electronics Repair](https://github.com/USF-IEEE-Computer-Society/introduction-to-electronics-repair). Ribbon cables, teardowns, and right to repair. September 20, 2024.
+- [IoT and Machine Learning](https://github.com/USF-IEEE-Computer-Society/IoT-worshop-ML). A TensorFlow model compiled into firmware. November 21, 2023.
+- [IoT Hardware](https://github.com/USF-IEEE-Computer-Society/IoT_Hardware_Workshop). Circuit diagrams and live-coded firmware. November 14, 2023.
+- [Looking Inside Computer I/O](https://github.com/USF-IEEE-Computer-Society/looking_inside_computer_io). How a mouse, keyboard, and speaker work. DevFest, October 21, 2023.
 
 ### Software and web
 
@@ -48,14 +48,14 @@ Every workshop we run gets its own repo with the slides and any code, so you can
 - [SQL at HackaBull](https://github.com/USF-IEEE-Computer-Society/HackaBull-SQL-Workshop). Slides and every query from the live-coded music database. April 2025.
 - [Backend Overview](https://github.com/USF-IEEE-Computer-Society/backend_overview). A working C# API with controllers, models, and migrations. March 7, 2025.
 - [TailwindCSS Mobile Responsive](https://github.com/USF-IEEE-Computer-Society/TailwindCSS-Mobile-Responsive). One HTML file you can open and edit. February 7, 2025.
-- [Introduction to Python, Graphs and Math](https://github.com/USF-IEEE-Computer-Society/Introduction-to-Python-Graphs-and-Math). October 2024.
-- [Interactive Resume](https://github.com/USF-IEEE-Computer-Society/interactive_resume). React and Vite project, the most starred repo here. October 2024.
-- [Python Arcade Game](https://github.com/USF-IEEE-Computer-Society/Python-Arcade-Game). September 2024.
-- [Portfolio Website at HackJam](https://github.com/USF-IEEE-Computer-Society/HackJam-Portfolio-Website-Workshop). October 2023.
-- [Snake with Computer Vision](https://github.com/USF-IEEE-Computer-Society/snake-game-computer-vision). Starter code included, you write the tracking. October 2023.
+- [Introduction to Python, Graphs and Math](https://github.com/USF-IEEE-Computer-Society/Introduction-to-Python-Graphs-and-Math). Math and plots in Google Colab, any major. October 21, 2024.
+- [Interactive Resume](https://github.com/USF-IEEE-Computer-Society/interactive_resume). A resume you send as a link. React and Vite, the most starred repo here. October 18, 2024.
+- [Python Arcade Game](https://github.com/USF-IEEE-Computer-Society/Python-Arcade-Game). A spaceship shooter in Pygame Zero. September 16, 2024.
+- [Portfolio Website at HackJam](https://github.com/USF-IEEE-Computer-Society/HackJam-Portfolio-Website-Workshop). October 22, 2023.
+- [Snake with Computer Vision](https://github.com/USF-IEEE-Computer-Society/snake-game-computer-vision). Steer the snake with your hand. Starter code included. October 11, 2023.
 
 ### Design and career
 
 - [3D Cat](https://github.com/USF-IEEE-Computer-Society/3D-Cat). SolidWorks workshop with the source part, STEP, STL, and sliced gcode. April 2026. [Event page](https://www.ieeecsusf.com/events/2003636).
 - [Certification Workshop](https://github.com/USF-IEEE-Computer-Society/Certification-Workshop-). CompTIA, AWS, and Azure. November 13, 2025.
-- [LaTeX for Writing Professional Papers](https://github.com/USF-IEEE-Computer-Society/LaTeX-for-writing-professional-papers). February 2024.
+- [LaTeX for Writing Professional Papers](https://github.com/USF-IEEE-Computer-Society/LaTeX-for-writing-professional-papers). Large documents, for research labs. February 14, 2024.
