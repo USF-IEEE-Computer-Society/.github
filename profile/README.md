@@ -43,6 +43,7 @@ Every workshop we run gets its own repo with the slides and any code, so you can
 
 ### Software and web
 
+- [Agent 007: LangGraph and Multi-Agent AI](https://github.com/USF-IEEE-Computer-Society/Agents007_Powerpoint). Slides plus a working agent that tailors resume bullets to a job posting. September 15, 2026.
 - [Backend Workshop](https://github.com/USF-IEEE-Computer-Society/Backend_Workshop). APIs, CRUD, databases, and auth. November 20, 2025.
 - [Git Workshop](https://github.com/USF-IEEE-Computer-Society/Git_Workshop). Everyone left with a GitHub profile and a first commit. October 30, 2025.
 - [SQL at HackaBull](https://github.com/USF-IEEE-Computer-Society/HackaBull-SQL-Workshop). Slides and every query from the live-coded music database. April 2025.
