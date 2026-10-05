@@ -57,6 +57,7 @@ Every workshop we run gets its own repo with the slides and any code, so you can
 
 ### Design and career
 
+- [Large Scale Tech: How Fortune 100 Company Projects Really Work](https://github.com/USF-IEEE-Computer-Society/LargeScaleTech). Talk by John Wesly Sajja of Deloitte on data migration, cutover, and hypercare, plus the roles to target. September 17, 2026. [Event page](https://www.ieeecsusf.com/events/2010251).
 - [3D Cat](https://github.com/USF-IEEE-Computer-Society/3D-Cat). SolidWorks workshop with the source part, STEP, STL, and sliced gcode. April 2026. [Event page](https://www.ieeecsusf.com/events/2003636).
 - [Certification Workshop](https://github.com/USF-IEEE-Computer-Society/Certification-Workshop-). CompTIA, AWS, and Azure. November 13, 2025.
 - [LaTeX for Writing Professional Papers](https://github.com/USF-IEEE-Computer-Society/LaTeX-for-writing-professional-papers). Large documents, for research labs. February 14, 2024.
